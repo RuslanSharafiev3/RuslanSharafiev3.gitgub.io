@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "leaguegothic-condensed-italic-webfont";
+    src:url("fonts/leaguegothic-condensed-italic-webfont.eot");
+    src:url("fonts/leaguegothic-condensed-italic-webfont.eot?#iefix") format("embedded-opentype"),
+        url("fonts/leaguegothic-condensed-italic-webfont.woff") format("woff"),
+        url("fonts/leaguegothic-condensed-italic-webfont.ttf") format("truetype"),
+        url("fonts/leaguegothic-condensed-italic-webfont.svg#leaguegothic-condensed-italic-webfont") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}

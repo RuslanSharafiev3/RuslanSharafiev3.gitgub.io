@@ -1,8 +1,11 @@
-.container {
-    background: green;
+
+
+.main_head {
+    height: 720px;
+    position: relative;
+    background-color: #F5F5F5;
 }
 
-ul {
-    font-family: 'Lobster', serif;
-    font-size: 20px;
+.hidden {
+    display: none;
 }
