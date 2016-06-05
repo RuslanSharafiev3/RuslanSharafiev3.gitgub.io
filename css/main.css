@@ -1,0 +1,27 @@
+body {
+  color: #222; }
+
+.hidden {
+  display: none; }
+
+section,
+.main_head {
+  position: relative; }
+
+a {
+  color: #F5F5F5; }
+
+p {
+  color: #888; }
+
+.color_bg {
+  background-color: #F5F5F5; }
+
+.color_border {
+  border-color: #F5F5F5; }
+
+.main_head {
+  min-height: 720px;
+  z-index: -1; }
+
+/*# sourceMappingURL=main.css.map */
